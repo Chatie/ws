@@ -1,0 +1,30 @@
+{
+  "name": "@chatie/ws",
+  "version": "0.0.1",
+  "description": "Reactive eXtention Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo pretend test ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chatie/ws.git"
+  },
+  "keywords": [
+    "chatie",
+    "reactive",
+    "websocket"
+  ],
+  "author": "Huan LI <zixia@zixia.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Chatie/ws/issues"
+  },
+  "homepage": "https://github.com/Chatie/ws#readme",
+  "dependencies": {
+    "@types/node": "^7.0.15",
+    "@types/ws": "0.0.40",
+    "rxjs": "^5.3.0",
+    "ws": "^2.3.1"
+  }
+}
